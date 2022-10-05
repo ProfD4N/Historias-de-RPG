@@ -1,0 +1,49 @@
+body{
+  background-color: #cfc89a
+}
+h1{
+  text-align: center;
+  border: dashed;
+  color: #a14016;
+  font-size: 40px;
+}
+p{
+  text-align: justify; color: #322938;
+  font-size: 20px;
+}
+em{
+  color: #a14016
+}
+h3{
+  text-align: center;
+  color: #cc883a;
+  font-size: 30px;
+}
+strong{
+  color:#cc5b14
+}
+ul{
+  color: #322938;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+}
+.dialogoNascimento{
+  margin-left: 3%;
+}
+.texto{
+}
+#ilha{
+margin-left: 23%;
+width: 50%;
+border: 30px groove; color: #89a194
+}
+#gerome1{
+  margin-left: 41%;
+  width: 15%;
+  border:20px double; border-radius: 115px 115px; color: #5dc9a8;
+}
+#Navio{
+  width: 30%;
+  margin-left: 20%;
+}
